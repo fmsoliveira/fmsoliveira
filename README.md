@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fmsoliveira and I'm a fullstack developer
-- 👀 I’m interested in distributed systems, privacy and security
-- 🌱 I’m currently learning nextJS and Containers 
+- 👋 Hi, I’m @fmsoliveira - a passionate software engineer and fullstack developer
+- 👀 I’m interested in distributed systems, webdevelopment, privacy and security
+- 🌱 I’m currently improving my skills on NextJS and Containers 
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
